@@ -1,0 +1,26 @@
+{
+  "name": "node-crfsuite",
+  "version": "1.0.0",
+  "description": "NodeJS link to the CRFSuite library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "install": "node-gyp rebuild"
+  },
+  "keywords": [
+    "crf",
+    "crfsuite"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bertmsk/node-crfsuite.git"
+  },
+  "gypfile": true,
+  "author": {
+    "name": "Bert",
+    "email": "bert@freecap.ru",
+    "url": "https://github.com/bertmsk"
+  },
+  "license": "MIT",
+  "gypfile": true
+}
