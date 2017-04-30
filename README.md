@@ -5,6 +5,12 @@ CRF or Conditional Random Fields are a class of statistical modeling method ofte
  
 [![MIT License](https://img.shields.io/badge/license-MIT_License-green.svg?style=flat-square)](https://github.com/bubkoo/get-cursor-position/blob/master/LICENSE)
 
+## Before install
+
+Make sure you've installed [liblbfgs](https://github.com/chokkan/liblbfgs) library and original [libcrfsuite](https://github.com/chokkan/crfsuite)
+
+
+
 ## Install
 
 ```
