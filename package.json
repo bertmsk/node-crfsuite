@@ -1,6 +1,6 @@
 {
   "name": "node-crfsuite",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "NodeJS link to the CRFSuite library",
   "main": "index.js",
   "scripts": {
